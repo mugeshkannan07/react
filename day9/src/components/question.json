@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "question": "what  is the capital of France?",
+        "options": ["Berlin","Madrid","Paris","Rome"],
+        "correctOption": "Paris"
+    },
+    {
+        "id": 2,
+        "question": "which is the largest planet in our solar system?",
+        "options": ["Earth","Jupiter","Saturn","Mars"],
+        "correctOption": "Jupiter"
+    },
+    {
+        "id": 3,
+        "question": "who wrote to kill a Mockingbird?",
+        "options": ["Harber Lee","Mark Twain","J.K.Rowling","George Orwell"],
+        "correctOption": "Harber Lee"
+    },
+    {
+        "id": 4,
+        "question": "what is the chemical symbol for water?",
+        "options": ["H2O","O2","CO2","NaCl"],
+        "correctOption": "H2O"
+    }
+]

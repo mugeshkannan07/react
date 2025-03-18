@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "species": "Dog",
+        "gender": "Male",
+        "name": "Buddy",
+        "age": "2 years",
+        "price": 10000,
+        "stock": 5
+      },
+    {
+        "id": 2,
+       "species": "Cat",
+        "gender": "Female",
+        "name": "Kiddy",
+        "age": "1 years",
+        "price": 4000,
+        "stock": 7
+    },
+    {
+        "id": 3,
+      "species": "Birds",
+        "gender": "Male",
+        "name": "Kiwi",
+        "age": "2 years",
+        "price": 7000,
+        "stock": 10
+    },
+    {
+       "species": "Hamster",
+        "gender": "Male",
+        "name": "Buddy",
+        "age": "2 years",
+        "price": 10000,
+        "stock": 5
+    },
+    {
+       "species": "Fish",
+        "gender": "Male",
+        "name": "Buddy",
+        "age": "2 years",
+        "price": 10000,
+        "stock": 5
+    }
+]

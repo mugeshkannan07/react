@@ -1,0 +1,23 @@
+div{
+    background-color: antiquewhite;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+button{
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    background-color: rgb(193, 190, 190);
+}
+button:hover{
+    background-color: aliceblue;
+}
+p{
+    font-size: 20px; 
+}
