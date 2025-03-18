@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+div{
+    background-color: antiquewhite;
+    width: 100%;
+    display: flex;
+}
+div a{
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+}
