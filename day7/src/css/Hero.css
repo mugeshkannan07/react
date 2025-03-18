@@ -1,0 +1,10 @@
+.Hero {
+    margin: 0;
+    padding: 0px;
+    width: 100%;
+
+}
+.Hero a{
+    text-decoration: none;
+    color: black;
+}

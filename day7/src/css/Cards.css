@@ -1,0 +1,19 @@
+.car{
+    width: 270px;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 10px;
+}
+.car img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.car h3{
+   margin: 0;
+}
+.car p{
+  margin: 0;
+  text-align: left;
+}
